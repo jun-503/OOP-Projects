@@ -1,0 +1,3 @@
+Mustafa,67890,Employee
+junaid,12345,Customer
+ali,234,Employee

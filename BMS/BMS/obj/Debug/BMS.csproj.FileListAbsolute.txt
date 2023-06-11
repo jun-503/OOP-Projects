@@ -1,0 +1,7 @@
+E:\OOP PROJECTS\BMS\BMS\BMS\obj\Debug\BMS.csproj.AssemblyReference.cache
+E:\OOP PROJECTS\BMS\BMS\BMS\obj\Debug\BMS.csproj.CoreCompileInputs.cache
+E:\OOP PROJECTS\BMS\BMS\BMS\bin\Debug\BMS.exe.config
+E:\OOP PROJECTS\BMS\BMS\BMS\bin\Debug\BMS.exe
+E:\OOP PROJECTS\BMS\BMS\BMS\bin\Debug\BMS.pdb
+E:\OOP PROJECTS\BMS\BMS\BMS\obj\Debug\BMS.exe
+E:\OOP PROJECTS\BMS\BMS\BMS\obj\Debug\BMS.pdb

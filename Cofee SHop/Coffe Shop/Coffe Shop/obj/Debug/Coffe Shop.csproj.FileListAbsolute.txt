@@ -1,0 +1,7 @@
+E:\Github\Cofee SHop\Coffe Shop\Coffe Shop\obj\Debug\Coffe Shop.csproj.AssemblyReference.cache
+E:\Github\Cofee SHop\Coffe Shop\Coffe Shop\obj\Debug\Coffe Shop.csproj.CoreCompileInputs.cache
+E:\Github\Cofee SHop\Coffe Shop\Coffe Shop\bin\Debug\Coffe Shop.exe.config
+E:\Github\Cofee SHop\Coffe Shop\Coffe Shop\bin\Debug\Coffe Shop.exe
+E:\Github\Cofee SHop\Coffe Shop\Coffe Shop\bin\Debug\Coffe Shop.pdb
+E:\Github\Cofee SHop\Coffe Shop\Coffe Shop\obj\Debug\Coffe Shop.exe
+E:\Github\Cofee SHop\Coffe Shop\Coffe Shop\obj\Debug\Coffe Shop.pdb

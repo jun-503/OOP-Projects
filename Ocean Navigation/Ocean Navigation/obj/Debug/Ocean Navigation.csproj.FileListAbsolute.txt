@@ -1,0 +1,7 @@
+E:\My Use\practice\Ocean Navigation\Ocean Navigation\bin\Debug\Ocean Navigation.exe.config
+E:\My Use\practice\Ocean Navigation\Ocean Navigation\bin\Debug\Ocean Navigation.exe
+E:\My Use\practice\Ocean Navigation\Ocean Navigation\bin\Debug\Ocean Navigation.pdb
+E:\My Use\practice\Ocean Navigation\Ocean Navigation\obj\Debug\Ocean Navigation.csproj.AssemblyReference.cache
+E:\My Use\practice\Ocean Navigation\Ocean Navigation\obj\Debug\Ocean Navigation.csproj.CoreCompileInputs.cache
+E:\My Use\practice\Ocean Navigation\Ocean Navigation\obj\Debug\Ocean Navigation.exe
+E:\My Use\practice\Ocean Navigation\Ocean Navigation\obj\Debug\Ocean Navigation.pdb
